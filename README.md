@@ -18,9 +18,9 @@ python main.py
 
 ```json
 {
-  "course_name": "인간로봇상호작용",
+  "course_name": "오픈소스소프트웨어실습",
   "year": "2026",
-  "semester": "2",
+  "semester": "1",
   "grade": "A+"
 }
 ```
